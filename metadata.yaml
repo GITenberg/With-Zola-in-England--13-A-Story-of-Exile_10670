@@ -1,0 +1,26 @@
+_repo: With-Zola-in-England--13-A-Story-of-Exile_10670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vizetelly, Ernest Alfred
+    alias: Vizetelly, E. A. (Ernest Alfred)
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '3192'
+    url: http://www.gutenberg.org/2009/agents/3192
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zola, Émile, 1840-1902'
+- !lcc 'DC'
+- !lcsh 'France -- Politics and government -- 1870-1940'
+- GITenberg
+title: "With Zola in England\r\nA Story of Exile"
+url: http://www.gutenberg.org/ebooks/10670

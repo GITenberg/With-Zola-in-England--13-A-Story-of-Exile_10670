@@ -1,5 +1,8 @@
 _repo: With-Zola-in-England--13-A-Story-of-Exile_10670
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vizetelly, Ernest Alfred
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3192'
     url: http://www.gutenberg.org/2009/agents/3192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10670#With-Zola-in-England--13-A-Story-of-Exile
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
